@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/Main/Controller/Controller.java;C:/Users/abdul/IdeaProjects/Sales-Invoice-Generator/src/Main/Model/InvoiceTable.java;C:/Users/abdul/IdeaProjects/Sales-Invoice-Generator/src/Main/Model/Line.java;C:/Users/abdul/IdeaProjects/Sales-Invoice-Generator/src/Main/Model/LinesTable.java;C:/Users/abdul/IdeaProjects/Sales-Invoice-Generator/src/Main/View/InvoiceDialog.java;C:/Users/abdul/IdeaProjects/Sales-Invoice-Generator/src/Main/View/InvoiceFrame.java;C:/Users/abdul/IdeaProjects/Sales-Invoice-Generator/src/Main/View/LineDialog.java;C:/Users/abdul/IdeaProjects/Sales-Invoice-Generator/README.md" />
+  </component>
+</project>
